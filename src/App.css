@@ -1,0 +1,11 @@
+.headerLine {
+  font-weight: 900;
+  font-size: larger;
+  color: darkgreen;
+  width: 70px;
+}
+
+.count {
+  margin-left: 6px;
+  width: 100px;
+}
